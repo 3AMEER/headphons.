@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+
+    <link rel="stylesheet" href="/pages/Swiper-Botton/page-5/page-style.css">
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HUAWEL FreeBuds Studio</title>
+</head>
+<body>
+    <section class="Compelet-order"> 
+        <div class="container">
+            <div class="img">
+                <img src="/img/our-Ear3.png" alt="">
+            </div>
+        </div>
+        <h1>HUAWEL FreeBuds Studio</h1>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus quas voluptas, minima rerum obcaecati eum voluptatem sed repudiandae fugit natus illo excepturi error vel accusamus tempora doloremque amet laboriosam ex? Mollitia laudantium laborum molestias vitae provident, quo sapiente numquam blanditiis.</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse nihil sunt non nam aliquid blanditiis quas incidunt assumenda necessitatibus ratione, ab fugiat exercitationem possimus. Eveniet neque amet praesentium modi possimus corrupti velit alias consectetur quae nam quos quibusdam itaque ex, quaerat voluptates natus delectus in odit perspiciatis? Quis, amet blanditiis! Nostrum libero dicta nemo a nisi minima, fugit molestiae dolorum aut in expedita numquam nobis, et iusto laboriosam modi voluptas voluptate. Ex voluptates ipsam in labore rem velit eum sapiente voluptate atque? Amet ipsa perspiciatis, temporibus consequatur minus aliquam, laborum porro molestias officiis blanditiis repudiandae nisi dolore iste dolorem. Pariatur?</p>
+    </section>
+
+    <section class="page-2">
+        <div class="container">
+            <div class="box box-1">
+                <div class="img">
+                    <img src="/img/page-2-1.jpg" alt="">
+                </div>
+            </div>
+            <div class="box box-2">
+                <div class="img">
+                    <img src="/img/page-2-2.jpg" alt="">
+                </div>
+            </div>
+            <div class="box box-3">
+                <div class="content">
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eius, enim? Fugit aliquid animi deleniti quos reprehenderit aliquam est placeat autem, ratione ad explicabo facilis similique maxime dolorem dolores nisi quae eos cupiditate non, perferendis sed et adipisci laboriosam! Ipsa eaque nesciunt quidem deleniti, repudiandae ab impedit aliquam non tempora numquam aperiam recusandae, eius id odit totam quibusdam voluptates dolor. Odio.</p>
+                </div>
+            </div>
+            <!-- <div class="box box-4">
+                <div class="content">
+                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium, iste eum? Blanditiis ipsam qui distinctio odit consequatur, cupiditate quaerat tenetur?
+                </div>
+            </div> -->
+            <div class="box box-5">
+                <div class="img">
+                    <img src="/img/page-1.jpg" alt="">
+                </div>
+            </div>
+            <div class="box box-6">
+                <div class="img">
+                    <img src="/img/Section-1.jpg" alt="">
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <script src="/JavaScript/page.js"></script>
+</body>
+</html>
